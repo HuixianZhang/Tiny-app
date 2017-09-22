@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_af38a4aac3d59dcc41eeab616263c6718bc0a6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/932c3ba0b485e6b4bb46f6b252c06edaf9697fb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_9f45492546a363d1c91f9c492911e7b3bfa15bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/647678bd0a6fd718995d5af0987f072557f6f477/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_39c950a92f3658d13a0c66d355c216312ed87851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/4dfb5c9baa51ab1702c6b98b8c811ecf9fce75f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_1ba2f8f789239d9d2311564416ce99f477ab6ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/298be76c2bbff0302cf9f25fa2e5eb90082732b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_73412c7c167e5eb32b4f823599943b87a15b8af0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/83df6028299fdc77945f40c7138fe05ee6d63550/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_f025f1aebb4f8e9e1fbc47aab2829947850256e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/2012f9f285efb9c5da9d65ca8699adea1b6fc781/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_9d4f877fa335c54fd13732aca63f25baa56e9461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/3a5938a286fc1a276e3681ad8fd5d3a53d8542b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_ab187258ee67308974d05656d0e8e2494f93ffca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_07c37cee09a829beaa937ada95c8289a8f2f6224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/d87f2eb123c017e0012f728a4fa57e695e0bc14c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_9ac9c39d27ea6d66c68d4a5d8a1c4b6ded3f95e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/55901e0e5bbf2d0e9f30159cf959b8564c843936/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_18f5d9a713f854d6056495ff76ef8fcbd69c4019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanghuixian/.android/build-cache/79ab9de32edf7b63d0c61454a3fb77f0de0a2334/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/zhanghuixian/AndroidStudioProjects/Mytinyapp/app/build/intermediates/pre-dexed/debug/classes_4951a7a097b2fa4c8bac77592e2611a8e58883f9.jar" />
+    </item>
+
+</items>
